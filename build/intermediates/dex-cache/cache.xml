@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-e8707fcd5378067033cae8ce145751d944241d79.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-2424d204ff203ae5a1cf752ec4519ab712bfd1b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-1df7ceb954444611664ba35905d274dc0c3cc296.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-cd7660e77e68f34ba938cacf02021c851a1b14c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-741558087334825c51a09174a788d721e009abaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-489b1548e8a08a76685ef6251d7b21e834bec1b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-8cb9f00d833061319935957956fcb0f61f898ecd.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-b162ccd5599154cb8c500e3bffde802dafdb5a5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-8c2005077957cb4e5d6d323b66aab689c0805745.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-3722d10033175f89598b1ab9f786c32e33ccaf21.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-52557e9e89bdc08d1aebb6a1676996900c5580e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-217170f4307ccad44b4fe2edb08553e3ab91d4af.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-a3176a56c28961b633703aec323d9b60f5dd5334.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-1d3e26d7635d574400d13bf1cc29fbf890508af7.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-f44f0d561854e33a34ca093f5831ff546ab96db9.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-bc9b48d335e37286f777a1502905d414ae9a84ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-3e8713a88622ed292beee04d01d6b15252350b74.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-71a600a59c6af1d53a93a87cbe1a61377923d6d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-edf5f837d34247c95b315b69cf9e6484b691bda3.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-be92c0501071e1cb7963cdc98ee826db33703031.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-62de9d8931e9216fbdf125009977fb198e2c46e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-dfb1d0ae739e4411856ae65eb9bd56eb5d0f86dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-83ad1fd8bfa370dfca41c21500aa388ce9455a43.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-79cbbdfe36fb9cdb22a762d76dfe560a826f2979.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-6412a02c7de65a5203bec77bb7da386defdef549.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-eac598e3a84a7000c94351d09d37cedddce4677b.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-651322d823090aa78f3bcc016e1edbc256dc2253.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.xgc1986.android\ripplebutton\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe4a82d37ae0d121dda801c9d7b9350c9a6867a6">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-0b9bfc7d5e60e8c897ae52f7e4c7412757d8d657.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-2b929622eb972d748f40859165f08aa6fc699923.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\David\Downloads\RockPaperScissors\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes-bd567f0d42909ce667e400202e857dde3d323359.jar" />
+    </item>
+
+</items>
