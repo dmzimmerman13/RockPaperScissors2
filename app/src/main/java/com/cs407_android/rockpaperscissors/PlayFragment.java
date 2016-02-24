@@ -6,11 +6,13 @@ import android.content.DialogInterface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.app.Fragment;
+import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toolbar;
 
 
 /**
@@ -59,11 +61,15 @@ public class PlayFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+
         if (getArguments() != null) {
             player1Choice = getArguments().getString(ARG_PLAYER_ONE);
             player2Choice = getArguments().getString(ARG_PLAYER_TWO);
         }
     }
+
+
+
 
 
     @Override
@@ -106,9 +112,16 @@ public class PlayFragment extends Fragment {
 
                 if(player1Choice == null) {
                    //TODO player 1 chose Rock
+                    getFragmentManager()
+                            .beginTransaction()
+                            .addToBackStack(null)
+                            .replace(R.id.main_fragment_container, PlayFragment.newInstance(getString(R.string.rock), null))
+                            .commit();
                 }
                 else{
                     //TODO player 2 chose Rock
+                    player2Choice = getString(R.string.rock);
+                    gameLogic();
                 }
 
             }
@@ -120,11 +133,16 @@ public class PlayFragment extends Fragment {
 
                 if(player1Choice == null) {
                     //TODO
-
+                    getFragmentManager()
+                            .beginTransaction()
+                            .addToBackStack(null)
+                            .replace(R.id.main_fragment_container, PlayFragment.newInstance(getString(R.string.paper), null))
+                            .commit();
                 }
                 else{
                     //TODO
-
+                    player2Choice = getString(R.string.paper);
+                    gameLogic();
                 }
             }
         });
@@ -135,15 +153,39 @@ public class PlayFragment extends Fragment {
 
                 if(player1Choice == null) {
                     //TODO
-
+                    getFragmentManager()
+                            .beginTransaction()
+                            .addToBackStack(null)
+                            .replace(R.id.main_fragment_container, PlayFragment.newInstance(getString(R.string.scissors), null))
+                            .commit();
                 }
                 else{
                     //TODO
-
+                    player2Choice = getString(R.string.scissors);
+                    gameLogic();
                 }
             }
         });
     }
+
+    private void gameLogic() {
+
+        if(player1Choice.equals(player2Choice)) {
+            displayWinner("Woah it's a Draw!");
+        }
+        else if(player1Choice.equals(getString(R.string.rock)) && player2Choice.equals(getString(R.string.paper))){
+            displayWinner(getString(R.string.player_2_header));
+        }
+        else if(player1Choice.equals(getString(R.string.paper)) && player2Choice.equals(getString(R.string.scissors))){
+            displayWinner(getString(R.string.player_2_header));
+        }
+        else if(player1Choice.equals(getString(R.string.scissors)) && player2Choice.equals(getString(R.string.rock))){
+            displayWinner(getString(R.string.player_2_header));
+        }
+        else {
+            displayWinner(getString(R.string.player_1_header));
+        }
+        }
 
 
     private void displayWinner(String winner){
@@ -159,12 +201,14 @@ public class PlayFragment extends Fragment {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         //TODO start a rematch!
+                        getFragmentManager().popBackStack();
                     }
                 })
                 .setNegativeButton("Quit", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         //TODO back out the the start screen
+                        getActivity().finish();
                     }
                 })
                 .show();
